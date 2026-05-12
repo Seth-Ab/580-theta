@@ -25,7 +25,7 @@ ENT000023,ABVE,ABVE,ABVE,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT000024,ABXX.F,ABXX.F,ABXX.F,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000025,ACA,ACA,ACA,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT000026,ACB,ACB,ACB,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT000027,ACCO,ACCO,AC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000027,ACCO,ACCO,ACCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000028,ACDC,ACDC,ACDC,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT000029,ACEL,ACEL,ACEL,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT000030,ACGL,ACGL,ACGL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -89,7 +89,7 @@ ENT000087,AFRI,AFRI,AFRI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT000088,AFRM,AFRM,AFRM,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000089,AFYA,AFYA,AFYA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000090,AG,AG,AG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT000091,AGCO,AGCO,AG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000091,AGCO,AGCO,AGCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000092,AGL,AGL,AGL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000093,AGM.A,AGM.A,AGM.A,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000094,AGNC,AGNC,AGNC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -97,7 +97,7 @@ ENT000095,AGO,AGO,AGO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.8
 ENT000096,AGRO,AGRO,AGRO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000097,AGX,AGX,AGX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000098,AGYS,AGYS,AGYS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT000099,AHCO,AHCO,AH,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000099,AHCO,AHCO,AHCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000100,AHG,AHG,AHG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000101,AHH,AHH,AHH,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000102,AHL,AHL,AHL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -129,7 +129,7 @@ ENT000127,ALAB,ALAB,ALAB,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT000128,ALAR,ALAR,ALAR,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000129,ALB,ALB,ALB,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000130,ALC,ALC,ALC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT000131,ALCO,ALCO,AL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000131,ALCO,ALCO,ALCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000132,ALDF,ALDF,ALDF,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000133,ALEX,ALEX,ALEX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000134,ALG,ALG,ALG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -230,7 +230,7 @@ ENT000228,ARAI,ARAI,ARAI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT000229,ARAY,ARAY,ARAY,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000230,ARBE,ARBE,ARBE,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000231,ARCB,ARCB,ARCB,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT000232,ARCO,ARCO,AR,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000232,ARCO,ARCO,ARCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000233,ARDT,ARDT,ARDT,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000234,ARE,ARE,ARE,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT000235,AREC,AREC,AREC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -426,7 +426,7 @@ ENT000424,BC,BC,BC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,p
 ENT000425,BCC,BCC,BCC,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT000426,BCE,BCE,BCE,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000427,BCH,BCH,BCH,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT000428,BCO,BCO,B,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000428,BCO,BCO,BCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000429,BCPC,BCPC,BCPC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000430,BCRD,BCRD,BCRD,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000431,BCS,BCS,BCS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -518,7 +518,7 @@ ENT000516,BKSY,BKSY,BKSY,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT000517,BKTI,BKTI,BKTI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000518,BL,BL,BL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000519,BLBD,BLBD,BLBD,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT000520,BLCO,BLCO,BL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000520,BLCO,BLCO,BLCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000521,BLD,BLD,BLD,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000522,BLDP,BLDP,BLDP,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000523,BLDR,BLDR,BLDR,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -710,7 +710,7 @@ ENT000708,CCIX,CCIX,CCIX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT000709,CCK,CCK,CCK,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000710,CCL,CCL,CCL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000711,CCLD,CCLD,CCLD,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT000712,CCO,CCO,C,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000712,CCO,CCO,CCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000713,CCOI,CCOI,CCOI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000714,CCRN,CCRN,CCRN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000715,CCS,CCS,CCS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -726,7 +726,7 @@ ENT000724,CDW,CDW,CDW,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.8
 ENT000725,CDXS,CDXS,CDXS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000726,CDZI,CDZI,CDZI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000727,CE,CE,CE,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT000728,CECO,CECO,CE,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000728,CECO,CECO,CECO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000729,CEG,CEG,CEG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000730,CELH,CELH,CELH,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000731,CENT,CENT,CENT,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
@@ -801,7 +801,7 @@ ENT000799,CMA,CMA,CMA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.8
 ENT000800,CMC,CMC,CMC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000801,CMCL,CMCL,CMCL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000802,CMCM,CMCM,CMCM,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT000803,CMCO,CMCO,CM,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000803,CMCO,CMCO,CMCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000804,CMCSA,CMCSA,CMCSA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000805,CMDB,CMDB,CMDB,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000806,CME,CME,CME,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -834,7 +834,7 @@ ENT000832,CNS,CNS,CNS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.8
 ENT000833,CNTX,CNTX,CNTX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000834,CNXC,CNXC,CNXC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000835,CNXN,CNXN,CNXN,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
-ENT000836,COCO,COCO,,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000836,COCO,COCO,COCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000837,CODI,CODI,CODI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000838,COE,COE,COE,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000839,COF,COF,COF,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -924,7 +924,7 @@ ENT000922,CRVL,CRVL,CRVL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT000923,CRWD,CRWD,CRWD,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000924,CRWV,CRWV,CRWV,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000925,CSAN,CSAN,CSAN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT000926,CSCO,CSCO,CS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000926,CSCO,CSCO,CSCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000927,CSGP,CSGP,CSGP,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT000928,CSGS,CSGS,CSGS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000929,CSIQ,CSIQ,CSIQ,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -965,7 +965,7 @@ ENT000963,CURV,CURV,CURV,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT000964,CUSI,CUSI,CUSI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000965,CUZ,CUZ,CUZ,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000966,CV,CV,CV,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT000967,CVCO,CVCO,CV,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000967,CVCO,CVCO,CVCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000968,CVEO,CVEO,CVEO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000969,CVGW,CVGW,CVGW,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT000970,CVI,CVI,CVI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -977,7 +977,7 @@ ENT000975,CVS,CVS,CVS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.8
 ENT000976,CVX,CVX,CVX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000977,CW,CW,CW,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000978,CWAN,CWAN,CWAN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT000979,CWCO,CWCO,CW,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT000979,CWCO,CWCO,CWCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000980,CWEN,CWEN,CWEN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000981,CWGL,CWGL,CWGL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT000982,CWH,CWH,CWH,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -1023,7 +1023,7 @@ ENT001021,DC,DC,DC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,p
 ENT001022,DCBO,DCBO,DCBO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001023,DCGO,DCGO,DCGO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001024,DCI,DCI,DCI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT001025,DCO,DCO,D,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT001025,DCO,DCO,DCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001026,DCTH,DCTH,DCTH,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001027,DD,DD,DD,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001028,DDC,DDC,DDC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -1064,7 +1064,7 @@ ENT001062,DIN,DIN,DIN,,TRUE,United States,North America,GSE580_theta_data.csv,20
 ENT001063,DINO,DINO,DINO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001064,DIOD,DIOD,DIOD,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001065,DIS,DIS,DIS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT001066,DJCO,DJCO,DJ,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT001066,DJCO,DJCO,DJCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001067,DJT,DJT,DJT,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT001068,DK,DK,DK,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001069,DKL,DKL,DKL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -1122,7 +1122,7 @@ ENT001120,DXCM,DXCM,DXCM,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT001121,DXPE,DXPE,DXPE,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT001122,DY,DY,DY,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001123,EA,EA,EA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT001124,EACO,EACO,EA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT001124,EACO,EACO,EACO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001125,EAF,EAF,EAF,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001126,EAT,EAT,EAT,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001127,EB,EB,EB,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -1283,7 +1283,7 @@ ENT001281,ENXTPA:ORA,ENXTPA:ORA,ENXTPA:ORA,,TRUE,Unknown,Unknown,GSE580_theta_da
 ENT001282,ENXTPA:OVH,ENXTPA:OVH,ENXTPA:OVH,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001283,ENXTPA:PIG,ENXTPA:PIG,ENXTPA:PIG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001284,ENXTPA:QDT,ENXTPA:QDT,ENXTPA:QDT,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT001285,ENXTPA:RCO,ENXTPA:RCO,ENXTPA:R,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT001285,ENXTPA:RCO,ENXTPA:RCO,ENXTPA:RCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001286,ENXTPA:RI,ENXTPA:RI,ENXTPA:RI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001287,ENXTPA:RMS,ENXTPA:RMS,ENXTPA:RMS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001288,ENXTPA:RNO,ENXTPA:RNO,ENXTPA:RNO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -1385,7 +1385,7 @@ ENT001383,EYPT,EYPT,EYPT,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT001384,EZPW,EZPW,EZPW,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001385,F,F,F,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001386,FA,FA,FA,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
-ENT001387,FACO,FACO,FA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT001387,FACO,FACO,FACO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001388,FAF,FAF,FAF,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001389,FAST,FAST,FAST,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001390,FBIN,FBIN,FBIN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -1415,7 +1415,7 @@ ENT001413,FG,FG,FG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,p
 ENT001414,FGNX,FGNX,FGNX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001415,FHI,FHI,FHI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001416,FHN,FHN,FHN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT001417,FICO,FICO,FI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT001417,FICO,FICO,FICO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001418,FIG,FIG,FIG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001419,FIGR,FIGR,FIGR,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001420,FIGS,FIGS,FIGS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -1523,7 +1523,7 @@ ENT001521,GBTG,GBTG,GBTG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT001522,GBX,GBX,GBX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001523,GCL,GCL,GCL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001524,GCMG,GCMG,GCMG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT001525,GCO,GCO,G,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT001525,GCO,GCO,GCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001526,GCT,GCT,GCT,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001527,GD,GD,GD,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001528,GDC,GDC,GDC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -1599,7 +1599,7 @@ ENT001597,GNTX,GNTX,GNTX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT001598,GNW,GNW,GNW,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT001599,GO,GO,GO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001600,GOAI,GOAI,GOAI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT001601,GOCO,GOCO,GO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT001601,GOCO,GOCO,GOCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001602,GOGO,GOGO,GOGO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001603,GOLF,GOLF,GOLF,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT001604,GOOD,GOOD,GOOD,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -2127,7 +2127,7 @@ ENT002125,LDI,LDI,LDI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.8
 ENT002126,LDOS,LDOS,LDOS,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT002127,LE,LE,LE,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT002128,LEA,LEA,LEA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT002129,LECO,LECO,LE,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT002129,LECO,LECO,LECO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002130,LEG,LEG,LEG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002131,LEGH,LEGH,LEGH,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002132,LEGT,LEGT,LEGT,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -2154,7 +2154,7 @@ ENT002152,LII,LII,LII,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.8
 ENT002153,LILA,LILA,LILA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002154,LILAK,LILAK,LILAK,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002155,LIN,LIN,LIN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT002156,LINC,LINC,L,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT002156,LINC,LINC,LINC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002157,LIND,LIND,LIND,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002158,LINE,LINE,LINE,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002159,LION,LION,LION,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -2180,7 +2180,7 @@ ENT002178,LNTH,LNTH,LNTH,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT002179,LNW,LNW,LNW,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002180,LOAR,LOAR,LOAR,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002181,LOB,LOB,LOB,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT002182,LOCO,LOCO,LO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT002182,LOCO,LOCO,LOCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002183,LOGC,LOGC,LOGC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002184,LOGI,LOGI,LOGI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002185,LOMA,LOMA,LOMA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -2306,7 +2306,7 @@ ENT002304,LSE:TCAP,LSE:TCAP,LSE:TCAP,,TRUE,Unknown,Unknown,GSE580_theta_data.csv
 ENT002305,LSE:THRL,LSE:THRL,LSE:THRL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002306,LSE:TLW,LSE:TLW,LSE:TLW,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002307,LSE:TRN,LSE:TRN,LSE:TRN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT002308,LSE:TSCO,LSE:TSCO,LSE:TS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT002308,LSE:TSCO,LSE:TSCO,LSE:TSCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002309,LSE:TW.,LSE:TW.,LSE:TW.,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002310,LSE:VSVS,LSE:VSVS,LSE:VSVS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002311,LSE:WEIR,LSE:WEIR,LSE:WEIR,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -2391,7 +2391,7 @@ ENT002389,MCEM,MCEM,MCEM,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT002390,MCFT,MCFT,MCFT,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002391,MCHP,MCHP,MCHP,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002392,MCK,MCK,MCK,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT002393,MCO,MCO,M,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT002393,MCO,MCO,MCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002394,MCRI,MCRI,MCRI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002395,MCS,MCS,MCS,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT002396,MCTA,MCTA,MCTA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -2454,7 +2454,7 @@ ENT002452,MKTW,MKTW,MKTW,,TRUE,United States,North America,GSE580_theta_data.csv
 ENT002453,MKTX,MKTX,MKTX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002454,MLAB,MLAB,MLAB,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002455,MLCI,MLCI,MLCI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT002456,MLCO,MLCO,ML,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT002456,MLCO,MLCO,MLCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002457,MLI,MLI,MLI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002458,MLKN,MLKN,MLKN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002459,MLM,MLM,MLM,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -2662,15 +2662,15 @@ ENT002660,NSEI:DIVISLAB,NSEI:DIVISLAB,NSEI:DIVISLAB,,TRUE,Unknown,Unknown,GSE580
 ENT002661,NSEI:DMART,NSEI:DMART,NSEI:DMART,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002662,NSEI:DRREDDY,NSEI:DRREDDY,NSEI:DRREDDY,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002663,NSEI:EICHERMOT,NSEI:EICHERMOT,NSEI:EICHERMOT,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT002664,NSEI:EMAMILTD,NSEI:EMAMILTD,NSEI:EMAMI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT002664,NSEI:EMAMILTD,NSEI:EMAMILTD,NSEI:EMAMILTD,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002665,NSEI:GODREJCP,NSEI:GODREJCP,NSEI:GODREJCP,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002666,NSEI:GRASIM,NSEI:GRASIM,NSEI:GRASIM,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002667,NSEI:HAVELLS,NSEI:HAVELLS,NSEI:HAVELLS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002668,NSEI:HCLTECH,NSEI:HCLTECH,NSEI:HCLTECH,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT002669,NSEI:HEROMOTOCO,NSEI:HEROMOTOCO,NSEI:HEROMOTO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT002670,NSEI:HINDALCO,NSEI:HINDALCO,NSEI:HINDAL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT002669,NSEI:HEROMOTOCO,NSEI:HEROMOTOCO,NSEI:HEROMOTOCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT002670,NSEI:HINDALCO,NSEI:HINDALCO,NSEI:HINDALCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002671,NSEI:HINDUNILVR,NSEI:HINDUNILVR,NSEI:HINDUNILVR,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT002672,NSEI:HINDZINC,NSEI:HINDZINC,NSEI:HINDZ,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT002672,NSEI:HINDZINC,NSEI:HINDZINC,NSEI:HINDZINC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002673,NSEI:HSCL,NSEI:HSCL,NSEI:HSCL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002674,NSEI:INDUSTOWER,NSEI:INDUSTOWER,NSEI:INDUSTOWER,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002675,NSEI:INOXINDIA,NSEI:INOXINDIA,NSEI:INOXINDIA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -2685,7 +2685,7 @@ ENT002683,NSEI:LALPATHLAB,NSEI:LALPATHLAB,NSEI:LALPATHLAB,,TRUE,Unknown,Unknown,
 ENT002684,NSEI:LT,NSEI:LT,NSEI:LT,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002685,NSEI:LUPIN,NSEI:LUPIN,NSEI:LUPIN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002686,NSEI:M&M,NSEI:M&M,NSEI:M&M,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT002687,NSEI:MARICO,NSEI:MARICO,NSEI:MARI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT002687,NSEI:MARICO,NSEI:MARICO,NSEI:MARICO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002688,NSEI:MARUTI,NSEI:MARUTI,NSEI:MARUTI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002689,NSEI:NESTLEIND,NSEI:NESTLEIND,NSEI:NESTLEIND,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002690,NSEI:NTPC,NSEI:NTPC,NSEI:NTPC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -2708,7 +2708,7 @@ ENT002706,NSEI:TITAGARH,NSEI:TITAGARH,NSEI:TITAGARH,,TRUE,Unknown,Unknown,GSE580
 ENT002707,NSEI:TITAN,NSEI:TITAN,NSEI:TITAN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002708,NSEI:TRENT,NSEI:TRENT,NSEI:TRENT,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002709,NSEI:UFLEX,NSEI:UFLEX,NSEI:UFLEX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT002710,NSEI:ULTRACEMCO,NSEI:ULTRACEMCO,NSEI:ULTRACEM,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT002710,NSEI:ULTRACEMCO,NSEI:ULTRACEMCO,NSEI:ULTRACEMCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002711,NSEI:UNITDSPR,NSEI:UNITDSPR,NSEI:UNITDSPR,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002712,NSEI:UPL,NSEI:UPL,NSEI:UPL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002713,NSEI:VBL,NSEI:VBL,NSEI:VBL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -2972,7 +2972,7 @@ ENT002970,PDM,PDM,PDM,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.8
 ENT002971,PDS,PDS,PDS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002972,PDYN,PDYN,PDYN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002973,PEB,PEB,PEB,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
-ENT002974,PECO,PECO,PE,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT002974,PECO,PECO,PECO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002975,PEG,PEG,PEG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002976,PEGA,PEGA,PEGA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT002977,PEN,PEN,PEN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -3006,7 +3006,7 @@ ENT003004,PHSE,PHSE,PHSE,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT003005,PHVS,PHVS,PHVS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003006,PI,PI,PI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003007,PII,PII,PII,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT003008,PINC,PINC,P,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT003008,PINC,PINC,PINC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003009,PINE,PINE,PINE,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003010,PINS,PINS,PINS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003011,PIPR,PIPR,PIPR,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
@@ -3120,7 +3120,7 @@ ENT003118,QFIN,QFIN,QFIN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT003119,QGEN,QGEN,QGEN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003120,QIPT,QIPT,QIPT,,TRUE,United States,North America,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback
 ENT003121,QLYS,QLYS,QLYS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT003122,QMCO,QMCO,QM,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT003122,QMCO,QMCO,QMCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003123,QNST,QNST,QNST,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003124,QRVO,QRVO,QRVO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003125,QS,QS,QS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -3184,7 +3184,7 @@ ENT003182,REZI,REZI,REZI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT003183,RF,RF,RF,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003184,RGA,RGA,RGA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003185,RGC,RGC,RGC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT003186,RGCO,RGCO,RG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT003186,RGCO,RGCO,RGCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003187,RGEN,RGEN,RGEN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003188,RGLD,RGLD,RGLD,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003189,RGP,RGP,RGP,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -3304,7 +3304,7 @@ ENT003302,SBRA,SBRA,SBRA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT003303,SBUX,SBUX,SBUX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003304,SBXD,SBXD,SBXD,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003305,SCAG,SCAG,SCAG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT003306,SCCO,SCCO,SC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT003306,SCCO,SCCO,SCCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003307,SCFR,SCFR,SCFR,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003308,SCHL,SCHL,SCHL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003309,SCHW,SCHW,SCHW,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -3446,7 +3446,7 @@ ENT003444,SGX:Y92,SGX:Y92,SGX:Y92,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,20
 ENT003445,SGX:Z74,SGX:Z74,SGX:Z74,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003446,SHAK,SHAK,SHAK,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003447,SHC,SHC,SHC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT003448,SHCO,SHCO,SH,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT003448,SHCO,SHCO,SHCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003449,SHEN,SHEN,SHEN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003450,SHG,SHG,SHG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003451,SHIP,SHIP,SHIP,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -3683,7 +3683,7 @@ ENT003681,SUPX,SUPX,SUPX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT003682,SUZ,SUZ,SUZ,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003683,SVC,SVC,SVC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003684,SVCC,SVCC,SVCC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT003685,SVCO,SVCO,SV,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT003685,SVCO,SVCO,SVCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003686,SVMB,SVMB,SVMB,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003687,SVV,SVV,SVV,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003688,SW,SW,SW,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -3958,7 +3958,7 @@ ENT003956,TRVG,TRVG,TRVG,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT003957,TRVI,TRVI,TRVI,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003958,TS,TS,TS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003959,TSAT,TSAT,TSAT,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT003960,TSCO,TSCO,TS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT003960,TSCO,TSCO,TSCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003961,TSE:1332,TSE:1332,TSE:1332,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003962,TSE:1333,TSE:1333,TSE:1333,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT003963,TSE:1605,TSE:1605,TSE:1605,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -4211,7 +4211,7 @@ ENT004209,TSX:ATD,TSX:ATD,TSX:ATD,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,20
 ENT004210,TSX:ATRL,TSX:ATRL,TSX:ATRL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004211,TSX:BTE,TSX:BTE,TSX:BTE,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004212,TSX:CCL.B,TSX:CCL.B,TSX:CCL.B,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT004213,TSX:CCO,TSX:CCO,TSX:C,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT004213,TSX:CCO,TSX:CCO,TSX:CCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004214,TSX:CFP,TSX:CFP,TSX:CFP,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004215,TSX:CFW,TSX:CFW,TSX:CFW,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004216,TSX:CGX,TSX:CGX,TSX:CGX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -4392,7 +4392,7 @@ ENT004390,VBNK,VBNK,VBNK,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT004391,VC,VC,VC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004392,VCIC,VCIC,VCIC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004393,VCTR,VCTR,VCTR,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT004394,VECO,VECO,VE,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT004394,VECO,VECO,VECO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004395,VEEV,VEEV,VEEV,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004396,VEL,VEL,VEL,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004397,VELO,VELO,VELO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -4447,7 +4447,7 @@ ENT004445,VRSN,VRSN,VRSN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,
 ENT004446,VRT,VRT,VRT,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004447,VRTS,VRTS,VRTS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004448,VSAT,VSAT,VSAT,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT004449,VSCO,VSCO,VS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT004449,VSCO,VSCO,VSCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004450,VSEC,VSEC,VSEC,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004451,VSH,VSH,VSH,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004452,VST,VST,VST,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
@@ -4630,7 +4630,7 @@ ENT004628,XTRA:IOS,XTRA:IOS,XTRA:IOS,,TRUE,Unknown,Unknown,GSE580_theta_data.csv
 ENT004629,XTRA:JEN,XTRA:JEN,XTRA:JEN,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004630,XTRA:JUN3,XTRA:JUN3,XTRA:JUN3,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004631,XTRA:KBX,XTRA:KBX,XTRA:KBX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
-ENT004632,XTRA:KCO,XTRA:KCO,XTRA:K,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
+ENT004632,XTRA:KCO,XTRA:KCO,XTRA:KCO,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004633,XTRA:KGX,XTRA:KGX,XTRA:KGX,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004634,XTRA:KSB,XTRA:KSB,XTRA:KSB,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown
 ENT004635,XTRA:LHA,XTRA:LHA,XTRA:LHA,,TRUE,Unknown,Unknown,GSE580_theta_data.csv,2026-05-08,0.80,parent relationships not resolved in v0; company_name missing; used ticker fallback; country unknown

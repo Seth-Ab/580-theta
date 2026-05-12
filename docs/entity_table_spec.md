@@ -2,14 +2,16 @@
 
 ## Purpose
 
-`outputs/entities_v0.csv` is the canonical company backbone for the Team Theta market-definition workflow. It gives each input ticker one stable internal `entity_id` so later outputs can join to a shared company identity layer instead of relying only on raw ticker strings.
+`outputs/entities_v0.csv` is the canonical company backbone for the Team Theta market-definition workflow. It gives each input ticker one internal `entity_id` so later outputs can join to a shared company identity layer instead of relying only on raw ticker strings.
+
+Task 2 is intentionally narrow. It creates the entity backbone only. Alias expansion, legal-name enrichment, ticker-history handling, and richer entity-resolution logic belong to Task 3.
 
 ## Column Definitions
 
-- `entity_id`: Stable internal identifier for the entity.
+- `entity_id`: Snapshot-stable internal identifier for the entity.
 - `ticker`: Cleaned public-company ticker, uppercased and stripped of surrounding spaces.
 - `company_name`: Company name from the source when available; otherwise the ticker fallback.
-- `canonical_name`: Readable cleaned name used for matching and review.
+- `canonical_name`: Conservatively cleaned source company name when present; otherwise the unchanged ticker fallback.
 - `parent_entity_id`: Reserved for future parent/subsidiary mapping. Blank in v0.
 - `is_public`: `TRUE` for all v0 rows because the source universe is public listed companies.
 - `country`: Country from a usable source field or conservative inference; otherwise `Unknown`.
@@ -21,13 +23,19 @@
 
 ## Cleaning Rules
 
-Tickers are stripped of surrounding whitespace and uppercased. Company names are stripped and repeated spaces are collapsed. `canonical_name` removes common legal suffixes only when they appear at the end of the name, including `Inc`, `Inc.`, `Corp`, `Corporation`, `Ltd`, `PLC`, `LLC`, `Co`, and `Company`.
+Tickers are stripped of surrounding whitespace and uppercased. Company names are stripped and repeated spaces are collapsed.
 
-The v0 cleaner intentionally does not over-clean names. It keeps names readable and avoids removing business descriptors that may matter for analyst review.
+When a real source `company_name` exists, `canonical_name` may remove common legal suffixes only when they appear as separate trailing terms, including `Inc`, `Inc.`, `Corp`, `Corporation`, `Ltd`, `PLC`, `LLC`, `Co`, and `Company`.
+
+When source `company_name` is missing, both `company_name` and `canonical_name` use the unchanged cleaned ticker. Legal suffix stripping is never applied to ticker fallbacks. This prevents tickers such as `ACCO` or `COCO` from being corrupted by suffix rules.
+
+The v0 cleaner intentionally does not infer legal company names from tickers and does not do cross-record matching beyond duplicate ticker checks.
 
 ## entity_id Rule
 
-Rows are sorted by cleaned ticker. IDs are assigned sequentially in that sorted order using the format `ENT000001`, `ENT000002`, and so on. This makes IDs stable as long as the input ticker universe and sort rule stay fixed.
+Rows are sorted by cleaned ticker. IDs are assigned sequentially in that sorted order using the format `ENT000001`, `ENT000002`, and so on.
+
+These IDs are snapshot-stable, not globally permanent. They remain stable for this source snapshot as long as the input ticker universe and sort rule stay fixed. If the universe changes, a future version should preserve prior IDs through an explicit mapping rather than relying only on sorted order.
 
 ## confidence_score Rule
 
@@ -38,10 +46,12 @@ Rows are sorted by cleaned ticker. IDs are assigned sequentially in that sorted 
 ## Known Limitations of v0
 
 - The current source file may not contain a `company_name` column, so v0 may use ticker fallbacks.
+- In the current `GSE580_theta_data.csv` snapshot, real company names are missing, so `company_name` and `canonical_name` are ticker-based.
 - Parent/subsidiary relationships are not resolved.
 - Country inference is conservative and leaves non-obvious cases as `Unknown`.
 - Private and foreign competitors named in text fields are not added as separate entities yet.
-- Corporate actions, historical ticker changes, and aliases are deferred to the alias/entity-resolution layer.
+- Corporate actions, legal-name normalization, historical ticker changes, and aliases are deferred to the Task 3 alias/entity-resolution layer.
+- Task 2 does not use outside APIs or external lookup services.
 
 ## Joining Later Tasks
 
