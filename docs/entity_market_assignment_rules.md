@@ -20,13 +20,10 @@ Company evidence inputs:
 - `outputs/entities_v0.csv`
 - `outputs/company_text_v0.csv`
 - `outputs/company_peers_top5.csv`
+- `outputs/company_clusters_k30.csv`
 - `data/GSE580_theta_data.csv`
 
-Unavailable evidence:
-
-- `outputs/company_clusters_k30.csv`
-
-Cluster output is useful decision support when available, but a cluster is not truth. This v0 does not block on the missing cluster file.
+Cluster output is useful decision support, but a cluster is not truth. It should support text-grounded assignments rather than override company evidence.
 
 ## Join Rules
 
@@ -119,11 +116,13 @@ Do not label an upstream supplier as a focal market member.
 
 Fill `submarket` only when available evidence supports a meaningful distinction. Leave it blank otherwise.
 
+Do not use `submarket` to repeat `value_chain_role`, assignment status, or diversification status. Put role detail and mixed-exposure flags in `value_chain_role`, `assignment_type`, and `notes`.
+
 Acceptable examples include:
 
 - Memory: `DRAM`, `NAND`, `HBM`
 - Semiconductor equipment: `lithography`, `inspection`, `test`, `deposition`, `etch`
-- Container shipping: `liner operator`, `container lessor`, `freight forwarding`
+- Container shipping: `feeder`, `intermediate`, `transpacific`, `intra-Asia`
 - Tires: `passenger tire`, `truck tire`, `replacement`, `OE`
 - Flat-rolled steel: `sheet`, `plate`, `coated steel`
 - Rebar and structural steel: `rebar`, `structural`, `merchant bar`
@@ -153,15 +152,15 @@ Use only these `relevance_tier` values:
 
 - `core`
 - `important`
-- `adjacent`
+- `peripheral`
 
 Rules:
 
 - `core`: clear focal participant or highly important direct participant in the market
 - `important`: materially participates in the market but is not central to defining it
-- `adjacent`: touches the market with clear evidence but is not one of the main v0 names
+- `peripheral`: touches the market with clear evidence but is not one of the main v0 names
 
-Do not use `adjacent` for weak guesses. If evidence is too weak, skip the row.
+Do not use `peripheral` for weak guesses. If evidence is too weak, skip the row.
 
 ## Confidence Score Rules
 
@@ -243,9 +242,10 @@ Before finalizing:
 - No duplicate `(entity_id, market_id, value_chain_role)` rows exist.
 - Focal assignments match the Task 2 focal role for the market.
 - No obvious upstream supplier is incorrectly labeled as focal.
+- `submarket` does not duplicate role labels such as `integrated`, `freight forwarding`, or `steel service center`.
 
 ## Current v0 Coverage Approach
 
 This v0 assigns only companies with explicit support in the available business text, industry labels, and peer table. Focal firms are included first for each market, followed by a small number of clear upstream, downstream, or service participants where useful for cycle analysis.
 
-Coverage is intentionally weaker where the source universe has fewer clear public rows or where roles are structurally ambiguous. Those cases are flagged in `notes` and should be revisited when cluster evidence or human review is available.
+Coverage is intentionally weaker where the source universe has fewer clear public rows or where roles are structurally ambiguous. Those cases are flagged in `notes` and should be revisited during human review.
