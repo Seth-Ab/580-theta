@@ -25,7 +25,7 @@ LABELS_PATH = OUTPUTS / "entity_market_labels_v0.csv"
 EXPOSURE_PATH = OUTPUTS / "entity_market_exposure_v0.csv"
 ENTITIES_PATH = OUTPUTS / "entities_v0.csv"
 MARKETS_PATH = OUTPUTS / "market_definitions_v0.csv"
-THETA_DATA_PATH = ROOT / "GSE580_theta_data.csv"
+THETA_DATA_PATH = ROOT / "data" / "GSE580_theta_data.csv"
 
 PANEL_PATH = OUTPUTS / "market_demo_company_panel_v0.csv"
 TIMESERIES_PATH = OUTPUTS / "market_revenue_timeseries_v0.csv"
@@ -270,7 +270,7 @@ def write_qc(
         f"- `outputs/entity_market_exposure_v0.csv`: {len(inputs['exposure'])} rows",
         f"- `outputs/entities_v0.csv`: {len(inputs['entities'])} rows",
         f"- `outputs/market_definitions_v0.csv`: {len(inputs['markets'])} rows",
-        f"- `GSE580_theta_data.csv`: {len(inputs['theta'])} rows",
+        f"- `data/GSE580_theta_data.csv`: {len(inputs['theta'])} rows",
         "",
         "## Compile Step",
         "",

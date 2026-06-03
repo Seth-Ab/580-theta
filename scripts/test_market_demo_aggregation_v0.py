@@ -13,6 +13,8 @@ correct and internally consistent.
 
 from __future__ import annotations
 
+import subprocess
+import sys
 from pathlib import Path
 
 import pandas as pd
@@ -25,6 +27,7 @@ PANEL_PATH = OUTPUTS / "market_demo_company_panel_v0.csv"
 TIMESERIES_PATH = OUTPUTS / "market_revenue_timeseries_v0.csv"
 GROWTH_PATH = OUTPUTS / "market_revenue_growth_v0.csv"
 QC_PATH = OUTPUTS / "market_demo_aggregation_qc_v0.md"
+BUILD_SCRIPT_PATH = ROOT / "scripts" / "build_market_demo_aggregation_v0.py"
 
 CURRENT_MARKETS = {f"MKT000{i}" for i in range(1, 8)}
 OUT_OF_SCOPE_MARKET_ID = "OUT_OF_SCOPE_CURRENT_MARKETS"
@@ -104,6 +107,18 @@ def load_outputs() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     timeseries = pd.read_csv(TIMESERIES_PATH)
     growth = pd.read_csv(GROWTH_PATH)
     return panel, timeseries, growth
+
+
+def rebuild_outputs() -> None:
+    result = subprocess.run(
+        [sys.executable, str(BUILD_SCRIPT_PATH)],
+        cwd=ROOT,
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    print(result.stdout.strip())
+    print_pass("aggregation rebuild")
 
 
 def test_output_existence() -> None:
@@ -277,6 +292,7 @@ def test_proof_of_concept_readiness(growth: pd.DataFrame) -> None:
 
 def main() -> None:
     print("Running Stage 3 Step 1-2 aggregation tests...")
+    rebuild_outputs()
     test_output_existence()
 
     panel, timeseries, growth = load_outputs()

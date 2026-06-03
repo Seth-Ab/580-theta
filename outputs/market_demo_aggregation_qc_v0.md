@@ -6,7 +6,7 @@
 - `outputs/entity_market_exposure_v0.csv`: 58 rows
 - `outputs/entities_v0.csv`: 4715 rows
 - `outputs/market_definitions_v0.csv`: 7 rows
-- `GSE580_theta_data.csv`: 4715 rows
+- `data/GSE580_theta_data.csv`: 4715 rows
 
 ## Compile Step
 
